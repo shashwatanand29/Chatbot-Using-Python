@@ -1,4 +1,4 @@
-# Chatbot-Using-Python-
+# Chatbot-Using-Python
 Building a Chatbot using Python with NLTK and Keras
 
 We developed a chatbot project using Python, leveraging the NLTK (Natural Language Toolkit) and Keras libraries. The chatbot is an artificial intelligence (AI) application capable of understanding and responding to human text inputs conversationally.
