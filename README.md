@@ -1,7 +1,7 @@
 # Chatbot-Using-Python-
 Building a Chatbot using Python with NLTK and Keras
 
-//We developed a chatbot project using Python, leveraging the NLTK (Natural Language Toolkit) and Keras libraries. The chatbot is an artificial intelligence (AI) application capable of understanding and responding to human text inputs in a conversational manner.
+We developed a chatbot project using Python, leveraging the NLTK (Natural Language Toolkit) and Keras libraries. The chatbot is an artificial intelligence (AI) application capable of understanding and responding to human text inputs conversationally.
 
 The NLTK library provided essential tools for natural language processing (NLP) tasks within the chatbot. It enabled us to preprocess and tokenize text data, perform part-of-speech tagging, and implement algorithms for text classification and sentiment analysis. These functionalities were fundamental in building the chatbot's ability to interpret user messages and generate appropriate responses.
 
@@ -14,5 +14,12 @@ The chatbot project involved several key components:
 - Dialog management: We designed algorithms to manage the flow of conversation, handle user context, and maintain the state of ongoing interactions.
 - Deployment: Once trained, the chatbot was deployed to a suitable platform or integrated into a user interface where users could interact with it in real-time.
 
-By combining the capabilities of NLTK and Keras, we created an intelligent chatbot that could understand natural language inputs, process them using machine learning techniques, and provide human-like responses. This project demonstrated the power of NLP and deep learning in building conversational agents and showcased the versatility of Python for AI development.
-//
+By combining the capabilities of NLTK and Keras, we created an intelligent chatbot that could understand natural language inputs, process them using machine-learning techniques, and provide human-like responses. This project demonstrated the power of NLP and deep learning in building conversational agents and showcased the versatility of Python for AI development,
+
+This Project is made by
+
+Shashwat
+
+Rahul Raj
+
+Abhay Kumar Gupta.
