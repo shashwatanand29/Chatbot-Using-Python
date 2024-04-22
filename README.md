@@ -16,7 +16,7 @@ The chatbot project involved several key components:
 
 By combining the capabilities of NLTK and Keras, we created an intelligent chatbot that could understand natural language inputs, process them using machine-learning techniques, and provide human-like responses. This project demonstrated the power of NLP and deep learning in building conversational agents and showcased the versatility of Python for AI development,
 
-This Project is made by
+This Project is made by the students of Bharati Vidyapeeth College of Engineering, Pune, India.
 
 Shashwat
 
